@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**m06956285-byte/m06956285-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>✦ Mizbah | Developer in Progress ✦</h1>
 
-Here are some ideas to get you started:
+<p>Engineering student • Building, learning, and sharing</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+  src="assets/profile-motion.gif"
+  alt="Silent animated profile video"
+  width="280"
+/>
+
+<img
+  src="assets/profile-art.jpg"
+  alt="Illustrated profile artwork"
+  width="260"
+/>
+
+</div>
