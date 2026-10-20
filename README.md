@@ -1,59 +1,62 @@
-<!-- ANIMATED BANNER --><p align="center">
+<!-- 💜 VIOLETBYTE | ANIME DEVELOPER PROFILE --><p align="center">
   <img src="./profile-motion.gif"
        width="100%"
-       alt="My looping anime banner" />
-</p><!-- INTRODUCTION --><h1 align="center">✦ Mizbah | Developer in Progress ✦</h1><p align="center">
-  Engineering Student • Building, Learning & Sharing
+       alt="VioletByte animated purple anime banner" />
+</p><h1 align="center">✦ VioletByte ✦</h1><h3 align="center">Building Beyond the Ordinary 🌙</h3><p align="center">
+  <i>Engineering Student • Dreamer • Developer in Progress</i>
 </p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+by+Building;Java+%7C+Web+Development+%7C+Azure;Turning+Ideas+into+Projects;Growing+One+Commit+at+a+Time"
-       alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+universe;Turning+ideas+into+projects;Learning+Java+and+Web+Development;Dream+it.+Build+it.+Improve+it."
+       alt="Animated VioletByte introduction" />
 </p><p align="center">
-  <a href="https://github.com/m06956285-byte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Java-9333EA?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-7C3AED?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-9333EA?style=for-the-badge" alt="Software development" />
+  <img src="https://img.shields.io/badge/Theme-Midnight%20Purple-7E22CE?style=for-the-badge" alt="Midnight purple theme" />
 </p>---
 
-🌙 About Me
+🌌 About Me
 
-Hey there! I'm Mizbah 👋
+Hey! I'm Mizbah 👋
 
-I'm an engineering student exploring software development, cloud technologies, and ideas that can make a real difference.
+Welcome to my little corner of GitHub, where creativity meets code.
 
+- 🎓 Engineering student exploring technology
 - 💻 Learning Java and web development
 - ☁️ Exploring Microsoft Azure
-- 🚀 Building student-focused projects
-- 🧩 Interested in hackathons and problem-solving
-- 🌱 Always learning something new
+- 🚀 Building projects with real-world impact
+- 🧩 Interested in hackathons and open-source learning
+- 🌱 Growing one commit at a time
+
+---
 
 🛠️ My Tech Journey
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,github,git,azure,vscode&theme=dark" alt="Technology icons" />
-</p>🚀 Featured Projects
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,azure,vscode&theme=dark"
+       alt="Technology skills" />
+</p>---
+
+🚀 Projects From My Universe
 
 💜 SkillBridge
 
 From Skills to Opportunities
 
-A student-focused platform concept designed to connect students' current skills with relevant internships, projects, and learning opportunities.
+A student-focused platform concept to help learners discover internships, projects, and opportunities that match their skills.
 
-Focus: Skill assessment • Opportunity discovery • Student growth
+"Education Tech" "Skill Assessment" "Opportunity Discovery"
 
 📊 SGPA / CGPA Calculator
 
-A grade calculator concept for calculating semester SGPA and cumulative CGPA using subjects, credits, and grades.
+A student tool concept for calculating academic performance using subject grades and credits.
 
-Focus: Academic planning • Grade calculations • Student productivity
+"JavaScript" "Calculations" "Student Productivity"
 
-✨ More projects coming soon
+🌠 More ideas are loading...
 
-I'm continuously experimenting with ideas, improving my skills, and turning concepts into working applications.
+Building, experimenting, and turning ideas into functional projects.
 
 ---
 
-📈 My GitHub Journey
+📈 My GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m06956285-byte&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=C084FC"
@@ -64,10 +67,8 @@ I'm continuously experimenting with ideas, improving my skills, and turning conc
 </p>---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"
-       width="100%" alt="Purple decorative footer" />
-</p><p align="center">
-  <i>“Small steps. Consistent learning. Meaningful projects.”</i>
-</p><p align="center">
-  ✦ Thanks for visiting my corner of GitHub ✦
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E22CE&height=120&section=footer"
+       width="100%" alt="Purple wave footer" />
+</p><h3 align="center">🌙 Dream in Purple. Build in Code. ✨</h3><p align="center">
+  <i>Thanks for visiting my digital universe.</i>
 </p>
