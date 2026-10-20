@@ -9,15 +9,11 @@
      width="280" />
 
 <br/>
-
-<img src="assets/profile-art.jpg"
-     alt="Illustrated profile artwork"
-     width="260" />
-
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Engineering+Student;Learning+by+Building;Future+Software+Developer"
-       alt="Animated typing headline" />
+  <img src="profile-art.jpeg"
+     alt="Illustrated profile artwork"
+     width="260" />
 </p>
 ## 🛠️ My Tech Journey
 
