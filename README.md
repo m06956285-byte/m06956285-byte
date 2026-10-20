@@ -15,6 +15,11 @@
      alt="Illustrated profile artwork"
      width="260" />
 </p>
+<p align="center">
+  <img src="profile-motion.mp4"
+       alt="My animated profile"
+       width="280" />
+</p>
 ## 🛠️ My Tech Journey
 
 - 💻 Programming: Java
