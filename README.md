@@ -1,39 +1,73 @@
-<div align="center">
+<!-- ANIMATED BANNER --><p align="center">
+  <img src="./profile-motion.gif"
+       width="100%"
+       alt="My looping anime banner" />
+</p><!-- INTRODUCTION --><h1 align="center">✦ Mizbah | Developer in Progress ✦</h1><p align="center">
+  Engineering Student • Building, Learning & Sharing
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+by+Building;Java+%7C+Web+Development+%7C+Azure;Turning+Ideas+into+Projects;Growing+One+Commit+at+a+Time"
+       alt="Animated typing introduction" />
+</p><p align="center">
+  <a href="https://github.com/m06956285-byte">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Java-9333EA?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-7C3AED?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+</p>---
 
-# ✦ Mizbah | Developer in Progress ✦
+🌙 About Me
 
-### Engineering student • Building, learning, and sharing
+Hey there! I'm Mizbah 👋
 
-<img src="assets/profile-motion.gif"
-     alt="Silent animated profile"
-     width="280" />
+I'm an engineering student exploring software development, cloud technologies, and ideas that can make a real difference.
 
-<br/>
-</div>
+- 💻 Learning Java and web development
+- ☁️ Exploring Microsoft Azure
+- 🚀 Building student-focused projects
+- 🧩 Interested in hackathons and problem-solving
+- 🌱 Always learning something new
+
+🛠️ My Tech Journey
+
 <p align="center">
-  <img src="profile-art.jpeg"
-     alt="Illustrated profile artwork"
-     width="260" />
-</p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,github,git,azure,vscode&theme=dark" alt="Technology icons" />
+</p>🚀 Featured Projects
+
+💜 SkillBridge
+
+From Skills to Opportunities
+
+A student-focused platform concept designed to connect students' current skills with relevant internships, projects, and learning opportunities.
+
+Focus: Skill assessment • Opportunity discovery • Student growth
+
+📊 SGPA / CGPA Calculator
+
+A grade calculator concept for calculating semester SGPA and cumulative CGPA using subjects, credits, and grades.
+
+Focus: Academic planning • Grade calculations • Student productivity
+
+✨ More projects coming soon
+
+I'm continuously experimenting with ideas, improving my skills, and turning concepts into working applications.
+
+---
+
+📈 My GitHub Journey
+
 <p align="center">
-  <img src="profile-motion.mp4"
-       alt="My animated profile"
-       width="280" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m06956285-byte&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=C084FC"
+       alt="GitHub statistics" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=m06956285-byte&theme=tokyonight&hide_border=true&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"
+       alt="GitHub contribution streak" />
+</p>---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"
+       width="100%" alt="Purple decorative footer" />
+</p><p align="center">
+  <i>“Small steps. Consistent learning. Meaningful projects.”</i>
+</p><p align="center">
+  ✦ Thanks for visiting my corner of GitHub ✦
 </p>
-## 🛠️ My Tech Journey
-
-- 💻 Programming: Java
-- 🌐 Web development: Learning and building
-- ☁️ Cloud: Azure
-- 🚀 Projects: Hackathons and useful student tools
-- 📚 Currently learning: New technologies and problem-solving
-- ## 🚀 Projects
-
-### SkillBridge
-Connecting students' skills with relevant opportunities.
-
-### SGPA / CGPA Calculator
-Calculating academic performance using subject credits and grades.
-
-### More projects coming soon!
-<img src="assets/profile-motion.gif" width="280" />
